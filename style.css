@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+}
+p {
+    color: chocolate;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    background-color: darkgray;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+img {
+    float: left;
+}
